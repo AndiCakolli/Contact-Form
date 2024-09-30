@@ -1,0 +1,38 @@
+.drejtohu{
+    display: flex;
+}
+body {
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+}
+#kryesr {
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 76px;
+    border-radius: 15px;
+}
+#black {
+    color: black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+#buttoni {
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    float: right;
+    border-radius: 5px;
+}
+
+#area {
+      padding: 10px;
+  max-width: 100%;
+  line-height: 1.5;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px #999;
+}
